@@ -1,3 +1,5 @@
+Repo นี้สร้างขึ้นเพื่อแสดง API ที่ใช้กับ Flutter Mobile App ใน Repo "MoneyTrackingApp" ที่เป็น mini project ของการเรียนเขียนโปรแกรมใน ปี 3 เทอม 1
+
 ประกอบด้วย API ภาษา PHP 4 ตัว
 - API สำหรับการตัวสอบ "ชื่อผู้ใช้" และ "รหัสผ่าน"
 - API สำหรับการสมัครบัญชี (register)
